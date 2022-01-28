@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(68, 175, 25);
+
+}
+
+.vas{
+    margin-left: 29rem;
+}
+
+.viewing{
+    opacity: 0.7;
+    height: auto;
+    width: 30rem;
+    margin-left: 31rem;
+}
+
+.dove{
+    overflow: hidden;
+}
+
+.sell{
+    height: 25rem;
+    width: 30rem;
+    margin-top: 10rem;
+}
+
+.sell2{
+    font-size: 1.5rem;
+}
+
+.sell3{
+    height: 35rem;
+    width: 30rem;
+    margin-top: 10rem;
+    margin-left: 64rem;
+}
+
+.sell4{
+    font-size: 1.5rem;
+    text-align: right;
+}
+
+.sell7{
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+.sell9{
+    height: 35rem;
+    width: 30rem;
+    text-align: right;
+}
